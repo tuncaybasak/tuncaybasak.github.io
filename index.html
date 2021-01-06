@@ -2,12 +2,25 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width">
-    <title>repl.it</title>
-    <link href="style.css" rel="stylesheet" type="text/css" />
+    <meta name="viewport" content="width=device-width">   
+    <script type="text/javascript" src="linkData.js"></script>
   </head>
-  <body>
-      <h1>Links</h1>
-      <a href="https://guides.github.com" target="_blank">Github guides</a>
-  </body>
+  <body>      
+    tuncay      
+  </body>  
+  <script type="text/javascript">
+      
+    linkData.forEach((data) => {
+      document.write("<h3>");
+      document.write(data.category);
+      document.write("</h3>");
+
+      data.links.forEach((link) => {
+        document.write("<a href ='" + link.src + "' target='_blank'>");
+        document.write(link.name);
+        document.write("</a>");
+        document.write("<br/>");          
+      });
+    });
+  </script>
 </html>
