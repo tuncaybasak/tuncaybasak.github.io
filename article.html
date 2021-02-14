@@ -17,7 +17,7 @@
     <a class="navbar-brand" href="#">tncybsk</a>
 </nav>
 
-<script type="text/javascript" src="data/site.js"></script>
+<script type="text/javascript" src="data/article.js"></script>
 
 
 <script>
@@ -25,17 +25,18 @@
 
      document.write("<div class=\"sidebar sidebar-dark bg-dark\">");
      document.write("<ul class=\"list-unstyled\">");
-     document.write("<li class=\"active\"><a href=\"./index.html\"><i class=\"fas fa-home\"></i> Site</a></li>");
-     document.write("<li><a href=\"./article.html\"><i class=\"far fa-newspaper\"></i> Article</a></li>");
+     document.write("<li><a href=\"./index.html\"><i class=\"fas fa-home\"></i> Site</a></li>");
+     document.write("<li class=\"active\" ><a href=\"./article.html\"><i class=\"far fa-newspaper\"></i> Article</a></li>");
      document.write("</ul>");
      document.write("</div>");
 
      document.write("<div class=\"content p-4\" style=\"height: auto !important;\">");
+     
      document.write("<div class=\"row\">");
 
-     siteData.sort(function(a, b){return a.sequence - b.sequence});
+    articleData.sort(function(a, b){return a.sequence - b.sequence});
 
-     siteData.forEach((data) => {     
+    articleData.forEach((data) => {     
         document.write("<div class=\"col-xl-3 col-lg-6 col-md-12\">");
         document.write("<div class=\"card mb-4\">");
         document.write("<div class=\"card-header bg-white font-weight-bold\">");       
