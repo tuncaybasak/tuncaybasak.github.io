@@ -28,7 +28,8 @@ var siteData = [
         "sequence": 3,        
         "links": 
             [
-                { "sequence": 1, "name": "oracletutorial", "src": "https://www.oracletutorial.com/"}                                 
+                { "sequence": 1, "name": "oracletutorial", "src": "https://www.oracletutorial.com/"},                                 
+                { "sequence": 2, "name": "sqlitetutorial", "src": "https://www.sqlitetutorial.net/"},                                 
             ]
     },
     {        
@@ -71,7 +72,10 @@ var siteData = [
         "sequence": 7,        
         "links": 
             [
-                { "sequence": 1, "name": "React.js  ", "src": "https://devhints.io/react" },                                                                              
+                { "sequence": 1, "name": "React.js", "src": "https://devhints.io/react" },                                                                              
+                { "sequence": 2, "name": "HTML", "src": "https://htmlcheatsheet.com/" },                                                                              
+                { "sequence": 3, "name": "CSS", "src": "https://htmlcheatsheet.com/css/" },                                                                              
+                { "sequence": 4, "name": "JS", "src": "https://htmlcheatsheet.com/js/" },                                                                              
             ]
     },
     {        

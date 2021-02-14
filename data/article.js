@@ -6,6 +6,7 @@ var articleData = [
             [
                 { "sequence": 1, "name": "13 BEST Free Database", "src": "https://www.guru99.com/free-database-software.html" },                           
                 { "sequence": 2, "name": "SQL Performans Arttırma Önerileri", "src": "https://www.cozumpark.com/yazilim-gelistiriciler-icin-sql-performans-arttirma-onerileri/" },                           
+                { "sequence": 3, "name": "Know about the ORDER BY Clause", "src": "https://www.oratable.com/oracle-order-by-clause/" },                           
             ]
     },
     {        
@@ -56,5 +57,13 @@ var articleData = [
                 { "sequence": 1, "name": "simple CRUD using SQLite in C#", "src": "https://riptutorial.com/csharp/example/17513/creating-simple-crud-using-sqlite-in-csharp" },                            
             ]
     }, 
+    {        
+        "category": "c#",
+        "sequence": 7,        
+        "links": 
+            [                                        
+                { "sequence": 1, "name": "DataView RowFilter Syntax ", "src": "https://www.csharp-examples.net/dataview-rowfilter/" },                            
+            ]
+    },
 ];
     
