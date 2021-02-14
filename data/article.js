@@ -10,7 +10,7 @@ var articleData = [
     },
     {        
         "category": "Medium",
-        "sequence": 4,        
+        "sequence": 5,        
         "links": 
             [
                 { "sequence": 1, "name": "hepsiburadatech", "src": "https://medium.com/hepsiburadatech" },       
@@ -31,7 +31,7 @@ var articleData = [
     },   
     {        
         "category": "React",
-        "sequence": 3,        
+        "sequence": 6,        
         "links": 
             [
                 { "sequence": 1, "name": "ReactJS Bölüm 1", "src": "https://medium.com/kodcular/reactjs-b%C3%B6l%C3%BCm-1-79ea7541344f" },                            
@@ -42,7 +42,7 @@ var articleData = [
     },   
     {        
         "category": "webapi",
-        "sequence": 5,        
+        "sequence": 3,        
         "links": 
             [                                        
                 { "sequence": 1, "name": "Web API Tarafında Dapper Kullanımı", "src": "https://www.buraksenyurt.com/post/web-api-tarafinda-dapper-kullanimi" },                            
@@ -50,7 +50,7 @@ var articleData = [
     },   
     {        
         "category": "Sqlite",
-        "sequence": 6,        
+        "sequence": 4,        
         "links": 
             [                                        
                 { "sequence": 1, "name": "simple CRUD using SQLite in C#", "src": "https://riptutorial.com/csharp/example/17513/creating-simple-crud-using-sqlite-in-csharp" },                            
