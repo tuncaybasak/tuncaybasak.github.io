@@ -7,8 +7,8 @@ var siteData = [
                 { "sequence": 1, "name": "w3schools", "src": "https://www.w3schools.com/" },
                 { "sequence": 2, "name": "tutorialspoint", "src": "https://www.tutorialspoint.com/tutorialslibrary.htm" },
                 { "sequence": 3, "name": "javatpoint", "src": "https://www.javatpoint.com/" },
-                { "sequence": 4, "name": "tutorialsteacher", "src": "https://www.tutorialsteacher.com/" },
-                { "sequence": 5, "name": "techonthenet", "src": "https://www.techonthenet.com/index.php" },              
+                { "sequence": 4, "name": "tutorialsteacher", "src": "https://www.tutorialsteacher.com/" },                      
+                { "sequence": 5, "name": "tutorialrepublic", "src": "https://www.tutorialrepublic.com/" },                      
                 { "sequence": 6, "name": "MDN Web Docs", "src": "https://developer.mozilla.org/en-US/" }           
             ]
     },
@@ -28,8 +28,10 @@ var siteData = [
         "sequence": 3,        
         "links": 
             [
-                { "sequence": 1, "name": "oracletutorial", "src": "https://www.oracletutorial.com/"},                                 
-                { "sequence": 2, "name": "sqlitetutorial", "src": "https://www.sqlitetutorial.net/"},                                 
+                { "sequence": 1, "name": "techonthenet", "src": "https://www.techonthenet.com/index.php" },    
+                { "sequence": 2, "name": "oracletutorial", "src": "https://www.oracletutorial.com/"},                                 
+                { "sequence": 3, "name": "sqlitetutorial", "src": "https://www.sqlitetutorial.net/"},                                 
+                { "sequence": 4, "name": "database models", "src": "http://www.databaseanswers.org/data_models/"},                                 
             ]
     },
     {        
@@ -39,7 +41,8 @@ var siteData = [
             [
                 { "sequence": 1, "name": "fontawesome", "src": "https://fontawesome.com/" },                                 
                 { "sequence": 2, "name": "google fonts", "src": "https://fonts.google.com/" },                                 
-                { "sequence": 3, "name": "pixabay", "src": "https://pixabay.com/"}                                 
+                { "sequence": 3, "name": "pixabay", "src": "https://pixabay.com/"},                                 
+                { "sequence": 4, "name": "semantic-ui", "src": "https://semantic-ui.com/"}                                 
             ]
     },
     {        
@@ -85,6 +88,25 @@ var siteData = [
             [
                 { "sequence": 1, "name": "jsonplaceholder", "src": "https://jsonplaceholder.typicode.com/guide/" },                                                                              
                 { "sequence": 2, "name": "jsonapi", "src": "https://jsonapi.org/examples/" },                                                                              
+                { "sequence": 3, "name": "rest countries", "src": "https://restcountries.eu/#rest-countries" },                                                                              
+            ]
+    },
+    {        
+        "category": "documents",
+        "sequence": 9,        
+        "links": 
+            [
+                { "sequence": 1, "name": "goalkicker", "src": "https://goalkicker.com/" },                                                                                                                                                                     
+                { "sequence": 2, "name": "adapter", "src": "https://refactoring.guru/design-patterns/adapter" },                                                                                                                                                                     
+            ]
+    },
+    {        
+        "category": "demos",
+        "sequence": 10,        
+        "links": 
+            [
+                { "sequence": 1, "name": "telerik", "src": "https://www.telerik.com/support/demos" },                                                                                                                                                                     
+                { "sequence": 2, "name": "e-ticaret kampanya", "src": "https://yardim.kobimaster.com.tr/e-ticaret-kampanyalar" },                                                                                                                                                                     
             ]
     }
 ];

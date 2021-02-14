@@ -7,6 +7,7 @@ var articleData = [
                 { "sequence": 1, "name": "13 BEST Free Database", "src": "https://www.guru99.com/free-database-software.html" },                           
                 { "sequence": 2, "name": "SQL Performans Arttırma Önerileri", "src": "https://www.cozumpark.com/yazilim-gelistiriciler-icin-sql-performans-arttirma-onerileri/" },                           
                 { "sequence": 3, "name": "Know about the ORDER BY Clause", "src": "https://www.oratable.com/oracle-order-by-clause/" },                           
+                { "sequence": 3, "name": "Oracle - Understand how NULLs affect IN and EXISTS", "src": "https://www.techrepublic.com/article/oracle-tip-understand-how-nulls-affect-in-and-exists/" },                           
             ]
     },
     {        
@@ -27,7 +28,7 @@ var articleData = [
         "links": 
             [
                 { "sequence": 1, "name": "TypeScript For Beginners", "src": "https://levelup.gitconnected.com/typescript-for-beginners-97b568d3e110" },                            
-                { "sequence": 2, "name": "youmightnotneedjquery", "src": "http://youmightnotneedjquery.com/" },                            
+                { "sequence": 2, "name": "youmightnotneedjquery", "src": "http://youmightnotneedjquery.com/" },                                                          
             ]
     },   
     {        
@@ -62,8 +63,25 @@ var articleData = [
         "sequence": 7,        
         "links": 
             [                                        
-                { "sequence": 1, "name": "DataView RowFilter Syntax ", "src": "https://www.csharp-examples.net/dataview-rowfilter/" },                            
+                { "sequence": 1, "name": "DataView RowFilter Syntax", "src": "https://www.csharp-examples.net/dataview-rowfilter/" },                            
             ]
     },
+    {        
+        "category": "crud",
+        "sequence": 8,        
+        "links": 
+            [                                        
+                { "sequence": 1, "name": "CRUD in HTML, Js, jQuery, Web API", "src": "https://www.codemag.com/article/1601031" },                            
+                { "sequence": 2, "name": "CRUD İN JS, JSON, PHP", "src": "https://codeofaninja.com/2015/06/php-crud-with-ajax-and-oop.html" },                            
+            ]
+    },
+    {        
+        "category": "javascript",
+        "sequence": 9,        
+        "links": 
+            [
+                { "sequence": 1, "name": "es6", "src": "http://coenraets.org/present/es6/#0" },                                                                                                  
+            ]
+    },   
 ];
     
