@@ -54,7 +54,8 @@ var siteData = [
                 { "sequence": 2, "name": "jsfiddle", "src": "https://jsfiddle.net/" },                                 
                 { "sequence": 3, "name": "jsbin", "src": "https://jsbin.com/"},                                 
                 { "sequence": 4, "name": "json formatter", "src": "https://jsonformatter.curiousconcept.com/"},                                 
-                { "sequence": 5, "name": "char counter", "src": "https://charcounter.com/en/"},                                 
+                { "sequence": 5, "name": "char counter", "src": "https://charcounter.com/en/"},   
+                { "sequence": 6, "name": "stackblitz", "src": "https://stackblitz.com/"},   
             ]
     },
     {        
