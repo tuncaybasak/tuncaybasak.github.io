@@ -80,7 +80,9 @@ var articleData = [
         "sequence": 9,        
         "links": 
             [
-                { "sequence": 1, "name": "es6", "src": "http://coenraets.org/present/es6/#0" },                                                                                                  
+                { "sequence": 1, "name": "es6", "src": "http://coenraets.org/present/es6/#0" },         
+                { "sequence": 2, "name": "Null vs. Undefined", "src": "https://codeburst.io/javascript-null-vs-undefined-20f955215a2" }, 
+                { "sequence": 3, "name": "Promise.all() and map() with Async/Await by Example", "src": "https://www.techiediaries.com/promise-all-map-async-await-example/" },   
             ]
     },   
 ];
