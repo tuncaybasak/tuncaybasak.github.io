@@ -109,8 +109,8 @@ var siteData = [
                 { "sequence": 1, "name": "telerik", "src": "https://www.telerik.com/support/demos" },                                                                                                                                                                     
                 { "sequence": 2, "name": "e-ticaret kampanya", "src": "https://yardim.kobimaster.com.tr/e-ticaret-kampanyalar" },                                                                                                                                                                     
             ]
-    }
-      {        
+    },
+    {        
         "category": "React",
         "sequence": 11,        
         "links": 
