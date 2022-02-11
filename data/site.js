@@ -110,5 +110,19 @@ var siteData = [
                 { "sequence": 2, "name": "e-ticaret kampanya", "src": "https://yardim.kobimaster.com.tr/e-ticaret-kampanyalar" },                                                                                                                                                                     
             ]
     }
+      {        
+        "category": "React",
+        "sequence": 11,        
+        "links": 
+            [
+                { "sequence": 1, "name": "ant design", "src": "https://ant.design/" },                                                                                                                                                                     
+                { "sequence": 2, "name": "ag-grid", "src": "https://ag-grid.com/react-data-grid/" },                                                                                                                                                                     
+                { "sequence": 3, "name": "bizchart", "src": "https://bizcharts.net/product/bizcharts/gallery" },  
+                { "sequence": 4, "name": "recharts", "src": "https://recharts.org/en-US" },  
+                { "sequence": 5, "name": "react-bootstrap-table2", "src": "https://react-bootstrap-table.github.io/react-bootstrap-table2/" },  
+                { "sequence": 6, "name": "alice crousel", "src": "https://maxmarinich.github.io/react-alice-carousel/" },  
+                { "sequence": 7, "name": "grid-layout", "src": "https://www.npmjs.com/package/react-grid-layout/v/1.3.0#demos" },                                                                                                                                                                     
+            ]
+    }
 ];
     
